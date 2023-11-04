@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# Projeto com react usando a API JsonPlaceholder
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Apenas um projeto simples, testando as funcionalidades do react
 
 ## Available Scripts
 
